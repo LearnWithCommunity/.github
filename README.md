@@ -1,2 +1,2 @@
 # .github
-GitHub Community Files @LearnWithCommunity
+GitHub Community Files [@LearnWithCommunity](https://github.com/LearnWithCommunity)
